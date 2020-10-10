@@ -1,1 +1,4 @@
-# react_project_cli
+#安装
+
+yarn install
+
